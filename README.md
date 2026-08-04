@@ -4,8 +4,9 @@ This project uses machine learning techniques to analyze and predict study hours
 
 ## Dataset
 
-500 student records
-# Features: 
+500 student records(student_sleep_patterns.csv)
+
+## Features: 
 Age, Gender, University Year, Sleep Duration, Screen Time, Caffeine Intake, Physical Activity, Sleep Quality, and sleep timing variables
 
 ## Technologies Used
@@ -25,7 +26,7 @@ Age, Gender, University Year, Sleep Duration, Screen Time, Caffeine Intake, Phys
 - Model building: Linear Regression & Logistic Regression
 - Model evaluation (MSE, R², Accuracy, Precision, Recall, Confusion Matrix)
 
-##Key Findings
+## Key Findings
 - No significant outliers detected (IQR & Z-score methods)
 - No significant association between Gender and Physical Activity
 - No significant difference in study hours between male and female students
@@ -34,6 +35,7 @@ Age, Gender, University Year, Sleep Duration, Screen Time, Caffeine Intake, Phys
 ## How to Run
 
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
+
 jupyter notebook "Student Study Hours Prediction using Machine Learning.ipynb"
 
 
