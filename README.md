@@ -29,7 +29,7 @@ Age, Gender, University Year, Sleep Duration, Screen Time, Caffeine Intake, Phys
 ## Key Findings
 - No significant outliers detected (IQR & Z-score methods)
 - No significant association between Gender and Physical Activity
-- No significant difference in study hours between male and female students
+- No significant Difference in study hours between male and female students
 - Logistic Regression achieved 50% accuracy in classifying sleep quality
 
 ## How to Run
