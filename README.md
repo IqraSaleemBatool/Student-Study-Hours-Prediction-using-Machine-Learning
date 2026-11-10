@@ -1,6 +1,6 @@
 # Student Study Hours Prediction
 
-This project uses machine learning techniques to analyze and predict study Hours based on dataset Features.
+This project uses machine learning techniques to analyze and predict Study Hours based on dataset Features.
 
 ## Dataset
 
