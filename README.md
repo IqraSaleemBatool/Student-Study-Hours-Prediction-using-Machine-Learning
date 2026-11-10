@@ -1,6 +1,6 @@
 # Student Study Hours Prediction
 
-This project uses machine learning techniques to analyze and predict study hours based on dataset features.
+This project uses machine learning techniques to analyze and predict study hours based on dataset Features.
 
 ## Dataset
 
@@ -13,7 +13,7 @@ Age, Gender, University Year, Sleep Duration, Screen Time, Caffeine Intake, Phys
 - Python
 - Pandas
 - Scikit-learn(Linear Regression, Logistic Regression, preprocessing)
-- Matplotlib & seaborn(visualizations)
+- Matplotlib & Seaborn(visualizations)
 - SciPy(statistical testing)
 
 ## Steps
